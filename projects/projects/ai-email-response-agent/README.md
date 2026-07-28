@@ -39,9 +39,7 @@ Reply to Gmail
 
 ## 📸 Workflow Preview
 
-> Replace the image below with the latest version of the workflow.
-
-![Workflow](workflow.png)
+![Workflow Preview](workflow-preview.png)
 
 ---
 
@@ -60,7 +58,7 @@ Reply to Gmail
 | File | Description |
 |------|-------------|
 | `workflow.json` | n8n workflow ready to import |
-| `workflow.png` | Workflow screenshot |
+| `workflow-preview.png` | Workflow preview image |
 | `README.md` | Project documentation |
 
 ---
