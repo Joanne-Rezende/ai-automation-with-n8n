@@ -53,13 +53,13 @@ Reply to Gmail
 
 ---
 
-## 📂 Files
+## 📁 Files
 
 | File | Description |
 |------|-------------|
-| `workflow.json` | n8n workflow ready to import |
-| `workflow-preview.png` | Workflow preview image |
-| `README.md` | Project documentation |
+| [workflow.json](workflow.json) | n8n workflow ready to import |
+| [workflow-preview.png](workflow-preview.png) | Workflow preview image |
+| [README.md](README.md) | Project documentation |
 
 ---
 
