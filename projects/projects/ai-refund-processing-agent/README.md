@@ -52,7 +52,7 @@ Business Rules
 
 ## 📸 Workflow Preview
 
-![Workflow](workflow.png)
+![Workflow Preview](workflow-preview.png)
 
 ---
 
@@ -71,7 +71,7 @@ Business Rules
 | File | Description |
 |------|-------------|
 | `workflow.json` | n8n workflow ready to import |
-| `workflow.png` | Workflow screenshot |
+| `workflow-preview.png` | Workflow preview image |
 | `README.md` | Project documentation |
 
 ---
