@@ -29,8 +29,8 @@ The goal of these projects is to practice the integration of AI models with clou
 
 | Project | Description | Status |
 |----------|-------------|:------:|
-| 📧 AI Email Response Agent | Automatically monitors incoming emails, classifies messages and generates AI-powered responses. | ✅ |
-| 💰 AI Refund Processing Agent | Processes refund requests using AI, customer data and business rules. | ✅ |
+| 📧 [AI Email Response Agent](projects/ai-email-response-agent) | Automatically monitors incoming emails, classifies messages and generates AI-powered responses. | ✅ |
+| 💰 [AI Refund Processing Agent](projects/ai-refund-processing-agent) | Processes refund requests using AI, customer data and business rules. | ✅ |
 
 ---
 
